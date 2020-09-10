@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="180dp"
+    android:background="#117dd4"
+    android:gravity="bottom"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:backgroundTint="@color/cardview_dark_background"
+
+    android:theme="@style/ThemeOverlay.AppCompat.Dark">
+
+
+
+
+    <LinearLayout
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/cardview_dark_background">
+
+
+
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Crop guidance and Farmers friend"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        android:textSize="25dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:textSize="13dp"
+        android:layout_marginTop="150px"
+        android:text="Helping farmers on crop suggestion and some precautionary measures"
+        tools:text="" />
+
+</RelativeLayout>

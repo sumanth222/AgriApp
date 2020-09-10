@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbars="horizontal">
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/pesticide"
+        ></ImageView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="25dp"
+        android:paddingTop="15dp"
+        android:textSize="20dp"
+        android:textColor="#000000"
+        android:text="Insecticides generally are effective, cheap, and safe if handled correctly; the good derived from them, however, can be partly offset by adverse effects. Chlorinated hydrocarbon insecticides such as DDT, for example, may leave residues toxic to beneficial insects, fish, and other wildlife; the insecticides may be found in meat and milk, or they may persist in the soil. Another problem is that some species of insects build up resistance to chlorinated hydrocarbon, organic phosphate, and carbamate insecticides. These disadvantages can be overcome only by persistent search for new and safer insecticides accompanied by wide use of nonchemical insect control.
+
+A wide range of organophosphate and carbamate materials is now available. These can be applied to avoid most of the problems related to residues. Malathion and carbaryl, for example, are used to control insects in areas where persistent materials might appear later in meat or milk and can also be applied in areas where fish and wildlife might be affected. Those two chemicals offer a broad range of toxicity to insect pests. Unlike chlorinated hydrocarbons, they can be applied up to within a day or so of harvest without harm to many crops; they are dangerous, however, to those who apply them and must be handled with care.
+
+
+Some insecticides are effective in very small amounts. This fact has stimulated development of ultralow-volume technology, where special equipment permits dispersal of low volumes of undiluted chemicals, which offers cost advantages as well as drastic reduction of the chemicals in the environment. For example, six to 16 ounces (170 to 450 grams) per acre of Malathion may be effective against grasshoppers, boll weevil, cereal-leaf beetle (Oulema melanopus), mosquitoes, and the beet leafhopper (Circulifer tenellus). Formulation of chemicals in granules rather than sprays offers some advantages in use and applications; among others, it reduces the amount needed and also lessens the chance of adverse effects on beneficial insects and wildlife.
+
+Certain insects that attack cotton, vegetables, and forage crops may be controlled by chemicals absorbed by the plant. Called systemics, they are placed with the seed at planting time. The chemical is taken up by the plant, and insects die when they attempt to feed on the leaf or stem. Beneficial insects that do not feed on the plant remain unharmed."
+        ></TextView>
+
+</LinearLayout>
+</ScrollView>

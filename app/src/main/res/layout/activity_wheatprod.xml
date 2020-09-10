@@ -1,0 +1,96 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="fill_parent"
+    android:layout_width="fill_parent"
+    android:scrollbars="horizontal"
+    android:id="@+id/sv"
+    android:background="@drawable/images">
+
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="2dp"
+            android:layout_marginTop="2dp"
+            android:background="#A7E680"
+            android:padding="2dp"
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:paddingTop="2dp"
+            android:text="PADDY"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textSize="30dp"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="Climate requirementWheat "
+            android:textStyle="bold"
+            android:textSize="27dp"
+
+            ></TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="5dp"
+            android:text="In India rice is grown under widely varying conditions of altitude and climate. Rice cultivation in India extends from 8 to35ºN latitude and from sea level to as high as 3000 meters. Rice crop needs a hot and humid climate."
+            android:textSize="24dp"
+            android:textColor="#000000"
+            android:textStyle="italic"></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nutritional value of Rice"
+            android:layout_marginTop="10dp"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textSize="30dp"
+            ></TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="24dp"
+            android:paddingLeft="5dp"
+
+            android:textColor="#000000"
+            android:text="Rice is a nutritional staple food which provides instant energy as its most important component is carbohydrate (starch). On the other hand, rice is poor in nitrogenous substances with average composition of these substances being only 8 per cent and fat content or lipids only negligible, i.e., 1per cent and due to this reason it is considered as a complete food for eating."
+            ></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Selection of seeds"
+            android:layout_marginTop="10dp"
+            android:textColor="#000000"
+            android:textSize="30dp"
+            ></TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="24dp"
+            android:paddingLeft="5dp"
+            android:text="In India Rice is mainly grown in two types of soils i.e., (i) uplands and (ii) low lands. The method of cultivation of rice in a particular region depends largely on factors such as situation of land, type of soils, irrigation facilities, availability of labourers intensity and distribution of rainfalls."
+            android:textColor="#000000"        ></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nutrient Management"
+            android:layout_marginTop="10dp"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textSize="30dp"
+            ></TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="24dp"
+            android:paddingLeft="5dp"
+            android:text="The use of quality seeds in cultivation of rice is an important factor to get better crop yield. Therefore, proper care has to be taken in selecting seeds of the best quality. Much of the success in raising the healthy seedlings depends on the quality of seed. Seeds intended for sowing should satisfy the following requirements
+The seed should belong to the proper variety, which is proposed to be grown.The seed should be clean and free from obvious mixtures of other seeds.The seed should be mature, well developed and plump in size"
+            android:textColor="#000000"        ></TextView>
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,95 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="fill_parent"
+    android:layout_width="fill_parent"
+    android:scrollbars="horizontal"
+    android:id="@+id/sv"
+    android:background="@drawable/wback">
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="2dp"
+        android:layout_marginTop="2dp"
+        android:background="#A7E680"
+        android:padding="2dp"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:paddingTop="2dp"
+        android:text="WHEAT"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textSize="30dp"
+        android:textStyle="bold"></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:text="Climate requirementWheat "
+        android:textStyle="bold"
+        android:textSize="27dp"
+
+        ></TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="5dp"
+        android:text="Crop has wide adaptability. It can be grown not only in the tropical and sub-tropical zones, but also in the temperate zone and the cold tracts of the far north ,beyond even the 60 degree north altitude . Wheat can tolerate severe cold and snow and resume growth with the setting in of warm weather in spring .It can be cultivated from sea level to as high as 3300 meters."
+        android:textSize="24dp"
+        android:textColor="#FFFFFF"
+        android:textStyle="italic"></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Soil Type"
+        android:layout_marginTop="10dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textSize="30dp"
+        ></TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24dp"
+        android:paddingLeft="5dp"
+
+        android:textColor="#FFFFFF"
+        android:text="Wheat is grown in a variety of soils of India. Soils with a clay loam or loam texture, good structure and moderate water holding capacity are ideal for wheat cultivation. Care should be taken to avoid very porous and excessively drained oils. Soil should be neutral in its reaction. Heavy soil with good drainage are suitable for wheat cultivation under dry conditions."
+        ></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Fertilizer Management"
+        android:layout_marginTop="10dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textSize="30dp"
+        ></TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24dp"
+        android:paddingLeft="5dp"
+        android:text="The time and placement of fertilizer is another area where significant progress was made. It was demonstrated that 120 kg nitrogen, 60 kg phosphorus and 30 kg potash per hectare were required for optimum productivity. The N was to be applied in two split doses of 60 kg as basal and the remaining 60 kg at first irrigation and full phosphorus and potash to be applied as basal. Recently, the new wheat varieties have responded up to 180 kg N/ha with optima dose around 150 kg/ha."
+        android:textColor="#FFFFFF"        ></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nutrient Management"
+        android:layout_marginTop="10dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textSize="30dp"
+        ></TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24dp"
+        android:paddingLeft="5dp"
+        android:text="With intensive agriculture, deficiency of essential nutrients has also become wide spread. The work conducted under the All India Coordinated Research Project on Micronutrient in Crops and Soils, has shown wide spread deficiency of zinc in soils in India. At the national level, the deficiency level in micro nutrients is Zn: 46 %, B: 17 %, Mo: 12 %, Fe: 11 % and Cu: 5%. The deficiency of sulphur has also been reported across a wide range of soils (38%)."
+        android:textColor="#FFFFFF"        ></TextView>
+
+</LinearLayout>
+</ScrollView>

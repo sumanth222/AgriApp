@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbars="horizontal">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:src="@drawable/scheme4"
+            android:paddingLeft="5dp"
+            ></ImageView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:textSize="20dp"
+            android:textColor="#000000"
+            android:text="The Paramparagat Krishi Vikas Yojana (PKVY), launched in 2015, is an extended component of Soil Health Management (SHM) under the Centrally Sponsored Scheme (CSS), National Mission on Sustainable Agriculture (NMSA)\n
+PKVY aims at supporting and promoting organic farming, in turn resulting in improvement of soil health.
+The scheme promotes Participatory Guarantee System (PGS) for India (PGS- India) form of organic certification that is built on mutual trust, locally relevant and mandates the involvement of producers and consumers in the process of certification.\n (PGS – India operates outside the framework of “Third Party Certification) ”.\n
+Funding pattern: It  is in the ratio of 60:40 by the Central and State Governments respectively. In case of North Eastern and Himalayan States, Central Assistance is provided in the ratio of 90:10 (Centre: State) and for Union Territories, the assistance is 100%.\n
+Target: The Scheme targets to form 10,000 clusters of 20 ha each and bring nearly two lakh hectares of agricultural area under organic farming by 2017-18"
+            ></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            ></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:textSize="35dp"
+            android:textColor="#000000"
+            android:text="Objective"
+            ></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:textSize="20dp"
+            android:textColor="#000000"
+            android:text="The objective is to produce agricultural products free from chemicals and pesticides residues by adopting eco- friendly, low- cost technologies. Key Thrust areas of PKVY in promoting organic farming include the following:  \n
+Promote organic farming among rural youth/ farmers/ consumers/ traders
+Disseminate latest technologies in organic farming\n
+Utilize the services of experts from public agricultural research system in India
+Organize a minimum of one cluster demonstration in a village"
+            ></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            ></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:textSize="35dp"
+            android:textColor="#000000"
+            android:text="Salient features"
+            ></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:textSize="20dp"
+            android:textColor="#000000"
+            android:text=" The cluster chosen for Organic Farming shall be 20 ha or 50 acres in extent and in as contiguous a form as possible.\n
+Total financial assistance available for a 20 ha or 50 acre cluster shall be a maximum of Rs. 10 lakhs for farmer members and Rs. 4.95 lakh for mobilization and PGS Certification with a subsidy ceiling of one hectare per farmer .\n
+Of the total number of farmers in a cluster, a minimum of 65 percent farmers should be allocated to small and marginal category, to be fulfilled at cluster level as far as practicable and where not possible to be satisfied at Mandal/Block/ Taluka or District level. \n
+At least 30% of the budget allocations need to be earmarked for women beneficiaries/ farmers"
+            ></TextView>
+
+    </LinearLayout>
+</ScrollView>

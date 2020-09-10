@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbars="horizontal">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:src="@drawable/nchem"
+            ></ImageView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:textSize="20dp"
+            android:textColor="#000000"
+            android:text="Light traps that give off radiation that attracts insects have been under test for many years. They have been somewhat successful in controlling the codling moth (Carpocapsa pomonella) and the tobacco hornworm (Protoparce sexta).
+
+Use of reflective aluminum strips, placed like a mulch in vegetable fields, has reduced or prevented aphid attack and thus protected cucumbers, squash, and watermelons from mosaic diseases. This technique may supplant insecticides, which frequently do not kill aphids quickly enough to prevent crop losses from virus transmitted by them.
+
+For stored products, heat or cold can control many insects that frequent such places. Also, changing the proportions of oxygen, nitrogen, and carbon dioxide in the storage atmosphere can provide control.
+
+It has been discovered that, if adult Indian-meal moths (Plodia interpunctella) were exposed to certain wavelengths of sound during the egg-laying period, their reproduction was reduced by 75 percent. The sound waves had a similar effect on flour beetles (Tribolium species). Further development is needed, but this method offers potential as a nonchemical control. Other types of physical energy can also kill insects. Light waves, high-frequency electric fields, high-intensity radio frequencies, and gamma radiation have been investigated; some offer promise.
+
+Certain cultural practices can prevent or reduce insect crop damage. These include destruction of crop residues, deep plowing, crop rotation, use of fertilizers, strip-cropping, irrigation, and scheduled planting operations. Such practices are useful but cannot be relied upon entirely to eliminate severe infestations.
+
+Biological controls
+The question of using biological controls has always been of considerable public interest. The control agents include parasites, predators, diseases, protozoa, and nematodes that attack the insect pests. Biological controls cannot replace insecticides entirely, because nature provides for survival of both beneficial and destructive insects. Before the population of a parasite or predator can expand, a high population of the host species must also be present. Sometimes the control agents are far outnumbered by the pest insect. Parasites and predators have furnished good control of the Japanese beetle (Popillia japonica), European corn borer (Pyrausta nubilalis), alfalfa aphid (Therioaphis maculata), alfalfa weevil (Hypera postica), and several others.
+
+Microbial agents can be used for control. There exist about 1,100 viruses, bacteria, fungi, protozoa, rickettsiae, and nematodes that parasitize insects. Many pathogens are specific to a particular insect but are harmless to man and domestic animals. It is a possibility that insect pathogens can be produced, packaged, distributed, and applied in much the same way as insecticides.
+
+The ideal solution to insect-control problems is to plant crop varieties that are resistant to attack. The only difficulty is that such varieties are not universally available, and development entails a very long process.
+
+Sterilization of male insects by gamma radiation and their release into a population of wild insects is a promising approach. It has proved successful in control of screwworms and fruit flies, replacing chemicals in some areas. Chemical attractants, which lure insects into contact with small amounts of insecticide or a sterilant, also offer much promise.
+
+All aspects of insect control considered, it is possible that “integrated control,” coordinated employment of more than one method, may be the answer. Combining resistant varieties with a systemic insecticide that leaves the parasites and predators unharmed, for example, has been successful in combatting the spotted alfalfa aphid in California. Preliminary reduction of heavy infestation by chemical spray combined with bait, followed by the sterile-insect technique, provides another example of integrated control. Use of sex attractant in light traps, plus special management of postharvest residues, has controlled the tobacco hornworm. Other examples might be cited, but the principal value of such control methods lies in using less insecticide and thus contributing to maintenance of a good environment."
+            ></TextView>
+
+    </LinearLayout>
+</ScrollView>

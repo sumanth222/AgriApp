@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbars="horizontal">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:src="@drawable/pmfy"
+            android:paddingLeft="5dp"
+            ></ImageView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:textSize="20dp"
+            android:textColor="#000000"
+            android:text="The PMFBY was launched in 2016 and replaces all the prevailing yield insurance schemes in India. The scheme has been launched with an impetus on crop sector. The scheme has extended coverage under localized risks, post-harvest losses etc. and aims at adoption of technology for the purpose of yield estimation. Through increased farmer awareness and low farmer premium rates the scheme aims at increasing the crop insurance penetration in India."
+            ></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            ></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:textSize="35dp"
+            android:textColor="#000000"
+            android:text="Salient Features"
+            ></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:textSize="20dp"
+            android:textColor="#000000"
+            android:text="Pradhan Mantri Fasal Bima Yojana (PMFBY) aims at supporting sustainable production in agriculture sector by way of -\n
+
+a) Providing financial support to farmers suffering crop loss/damage arising out of unforeseen events\n
+
+b) Stabilizing the income of farmers to ensure their continuance in farming\n
+
+c) Encouraging farmers to adopt innovative and modern agricultural practices\n
+
+d) Ensuring flow of credit to the agriculture sector; which will contribute to food security, crop diversification and enhancing growth and competitiveness of agriculture sector besides protecting farmers from production risks."
+            ></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            ></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:textSize="35dp"
+            android:textColor="#000000"
+            android:text="Eligibility Criteria"
+            ></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:textSize="20dp"
+            android:textColor="#000000"
+            android:text="Compulsory Component\n
+All farmers availing Seasonal Agricultural Operations (SAO) loans from Financial Institutions (i.e. loanee farmers) for the notified crop(s) would be covered compulsorily.
+Voluntary Component\n
+The Scheme would be optional for the non-loanee farmers."
+            ></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            ></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:textSize="35dp"
+            android:textColor="#000000"
+            android:text="Coverage of Risks and Exclusions:"
+            ></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="25dp"
+            android:paddingTop="15dp"
+            android:textSize="20dp"
+            android:textColor="#000000"
+            android:text="Following stages of the crop and risks leading to crop loss are covered under the scheme.\n
+
+Prevented Sowing/ Planting Risk:\n
+Insured area is prevented from sowing/ planting due to deficit rainfall or adverse seasonal conditions\n
+Standing Crop (Sowing to Harvesting):\n
+Comprehensive risk insurance is provided to cover yield losses due to non- preventable risks, viz. Drought, Dry spells, Flood, Inundation, Pests and Diseases, Landslides, Natural Fire and Lightening, Storm, Hailstorm, Cyclone, Typhoon, Tempest, Hurricane and Tornado.\n \n
+Post-Harvest Losses:\n
+coverage is available only up to a maximum period of two weeks from harvesting for those crops which are allowed to dry in cut and spread condition in the field after harvesting against specific perils of cyclone and cyclonic rains and unseasonal rains.\n \n
+Localized Calamities:\n
+Loss/ damage resulting from occurrence of identified localized risks of hailstorm, landslide, and Inundation affecting isolated farms in the notified area."
+            ></TextView>
+
+    </LinearLayout>
+</ScrollView>
